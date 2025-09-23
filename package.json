@@ -1,6 +1,6 @@
 {
-  "name": "tree-sitter-powershell",
-  "version": "0.25.9",
+  "name": "@stevesandersonms/tree-sitter-powershell",
+  "version": "0.25.9-preview",
   "description": "",
   "main": "bindings/node",
   "types": "bindings/node",
@@ -39,6 +39,7 @@
     "prebuilds/**",
     "bindings/node/*",
     "queries/*",
-    "src/**"
+    "src/**",
+    "*.wasm"
   ]
 }

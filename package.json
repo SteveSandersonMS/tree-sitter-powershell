@@ -1,6 +1,6 @@
 {
   "name": "@stevesandersonms/tree-sitter-powershell",
-  "version": "0.25.9-preview",
+  "version": "0.25.9-preview.2",
   "description": "",
   "main": "bindings/node",
   "types": "bindings/node",
@@ -24,7 +24,7 @@
     "tree-sitter": "^0.25.0"
   },
   "peerDependenciesMeta": {
-    "tree_sitter": {
+    "tree-sitter": {
       "optional": true
     }
   },
